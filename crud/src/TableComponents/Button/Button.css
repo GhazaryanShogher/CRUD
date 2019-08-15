@@ -1,0 +1,38 @@
+
+  .CB1{
+    border: 2px solid #d6cbc1;
+    width: 12%;
+    /* line-height: 2%; */
+    color: #eee8e2;
+    background: #021323;
+    border-radius: 40px;
+    margin-left: 10px;
+    padding: 10px;
+    /* box-shadow: 0 4px black; */
+    outline: none;
+    -webkit-transition-duration: 0.4s;
+    transition-duration: 0.4s;
+    cursor: pointer;
+  }
+  .popupBtn{
+    padding: 5px;
+    width: 40%;
+    background: #56595c;
+    margin: 15px auto;
+  }
+  .popupBtn1{
+    padding: 5px;
+    width: 40%;
+    background: #56595c;
+    margin: 10px ;
+  }
+  .CB1:hover{
+    box-shadow: -3px 2px 31px -7px rgba(248, 248, 248, 0.75);
+    
+  }
+  
+  .CB1:active{
+    box-shadow: 0 1px #666;
+    transform: translateY(4px);
+  }
+  

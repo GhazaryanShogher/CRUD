@@ -1,0 +1,7 @@
+.mailList{
+    border: 1px solid white;
+    cursor: pointer;
+}
+.warningText span {
+    color: red;
+}
